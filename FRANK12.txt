@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BoldFrame</title>
+</head>
+<body>
+  <h3 style="position: absolute;top: 42px;right: 90px;color: blueviolet;margin-bottom: 0;font-size: 30;"><i>WEB DEVELOPER</i></h3>
+  <h1 style="margin-top: 0;position: absolute;right: 160px;color: brown;font-size: 40px;"><b>PORTFOLIO</b></h1>
+  <h5 style="margin-bottom: 0;">HELLO, MY NAME IS</h5>         
+    <h1 style="margin-top: 0; margin-bottom: 0;color: rgb(21, 132, 31);"><b>FRANK FATAWU</b></h1 >    
+    <h1 style="margin-top: 0;color: rgb(17, 160, 81);"><b>BAKUWALE TECHI JUNIOR</b></h1>
+    <img src="./WhatsApp Image 2025-02-03 at 01.28.41_88c40941.jpg" width="430" height="350">
+    <h1 style="position: absolute;top: 120px;right: 210px;color: blue;"><U><b>ABOUT ME</b></U></h1>
+   <div style="position:absolute;top: 170px ;right:80px;">
+ <p style="font-size: larger;"> <b>I'm a computer science student passionate about web</b>  </p><p style="font-size: larger;"><b>development. I enjoy creating responsive websites and </b> </p>
+ <p style="font-size: larger;"><b>learning new tecnhnologies to improve my coding skills.</b> </p>
+   </div>
+   <button <a href="https://github.com/Bakuwale/Zap-tech-bootcamp.git" style="background-color: blue;color:white;position:absolute;top:340px;right:430px ">Vist My GitHup</button>
+   <table>
+<tr><h2>My Likes</h2></tr>
+<tr><td><b><i>1.SLEEPING</i></b></td></tr>
+<tr><td><b><i>2.PLAYING GAMES</i></b></td></tr>
+<tr><td><b><i>3.WATCHING MOVIES</i></b></td></tr>
+   </table>
+</body>
+</html>
